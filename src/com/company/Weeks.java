@@ -1,11 +1,12 @@
 package com.company;
 
 public enum Weeks {
-    Monday,
-    TUESDAY,
-    WEDNESDAY,
-    THURSDAY,
-    FRIDAY,
-    SATURDAY,
-    SUNDAY;
+    ДҮЙШӨНБҮ,
+    ШЕЙШЕМБИ,
+    ШАРШЕМБИ,
+    БЕЙШЕМБИ,
+    ЖУМА,
+    ИШЕМБИ,
+    ЖЕКШЕМБИ;
+
 }
